@@ -1,6 +1,8 @@
 ![](https://i.imgur.com/aTdv3NE.png)
 
-***Warning:*** This is the BETA version. So be careful <br />
+***Warning:*** This is the BETA version. So be careful!<br />
+
+<br />
 
 **Problems found, so far:**
 
