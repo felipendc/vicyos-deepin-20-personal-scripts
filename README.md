@@ -7,6 +7,7 @@
 - [x] UEFI installation fails (Asus Z97M-PLUS Motherboard) 
 
 
+
 **Personal tips for NVIDIA users:**
 
 - [x] Set brightness down to 95%, using the Deepin Settings to avoid precocious eyestrain!
@@ -14,8 +15,6 @@
 - [x] Disable "Dithering" using NVIDIA X Server Settings to avoid precocious eyestrain!
 
 **Personal tips for NVIDIA users facing screen tearting:** 
-
-<br />
 
 1 - sudo nvidia-settings <br />
 2 - Enable "Force Full Composition Pipeline" <br />
