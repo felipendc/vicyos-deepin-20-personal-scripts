@@ -4,7 +4,8 @@
 
 **Problems found, so far:**
 
-- [x] UEFI installation fails (Asus Z97M-PLUS Motherboard) <br />
+- [x] UEFI installation fails (Asus Z97M-PLUS Motherboard) 
+<br />
 
 
 
