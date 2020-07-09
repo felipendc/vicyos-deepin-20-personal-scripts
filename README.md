@@ -15,6 +15,8 @@
 - [x] Use your monitor settings to set up the screen brightness to avoid precocious eyestrain!
 - [x] Disable "Dithering" using NVIDIA X Server Settings to avoid precocious eyestrain!
 
+<br />
+
 **Personal tips for NVIDIA users facing screen tearting:** 
 
 1 - sudo nvidia-settings <br />
